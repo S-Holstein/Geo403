@@ -1,0 +1,10 @@
+/DATEN
+/KURS_21_22
+/Old_ENVs
+/saga_x64
+/.idea
+/__pycache__
+_saga_api.cp39-win_amd64.pyd
+saga_api.py
+saga_helper.py
+time_testing.py
